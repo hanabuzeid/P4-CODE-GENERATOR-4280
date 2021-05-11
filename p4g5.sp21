@@ -1,0 +1,10 @@
+$$ p4g5 $$
+
+data x := 1;
+
+main
+
+begin
+    outter x;
+end
+ 
